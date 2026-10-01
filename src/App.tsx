@@ -83,7 +83,7 @@ function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
           <a href="#" className="flex items-center group" aria-label="Grant Heating & Air Conditioning home">
             <img
-              src="/Untitled-1.png"
+              src="/logo.png"
               alt="Grant Heating & Air Conditioning Inc."
               className="h-12 md:h-14 w-auto object-contain"
             />
@@ -415,7 +415,7 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img src="/Untitled-1.png" alt="Grant Heating & Air Conditioning Inc." className="h-16 w-auto object-contain bg-white rounded-md" />
+              <img src="/logo.png" alt="Grant Heating & Air Conditioning Inc." className="h-16 w-auto object-contain bg-white rounded-md" />
               <div>
                 <p className="text-white font-bold text-lg">Grant Heating &amp; Air</p>
                 <p className="text-[#b83235] text-xs uppercase tracking-wide">Columbia, MO</p>
